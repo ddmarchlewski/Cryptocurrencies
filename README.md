@@ -14,4 +14,3 @@ Then, I made a 3D graph. This graph shows all of the currencies. The points show
 Finally, I made a 2D scatter plot. This plot compares total coin supply and total coins mined. 
 
 ![2D_scatter](https://user-images.githubusercontent.com/80054925/126084895-0b226e22-43fb-465a-bef3-f17eff64f3b3.png)
-
