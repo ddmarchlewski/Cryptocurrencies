@@ -7,3 +7,6 @@ First, I needed to find the total number of tradable cryptocurrencies. After cle
 
 ![total_cryptocurrencies](https://user-images.githubusercontent.com/80054925/126084712-600d7f49-1183-4ca9-af0e-2c8b9bae89fd.png)
 
+Then, I made a 3D graph. This graph shows all of the currencies. The points show the name of the currency. 
+
+![3D_scatter](https://user-images.githubusercontent.com/80054925/126084790-c48b454b-5349-40e2-9950-b5238e116258.png)
