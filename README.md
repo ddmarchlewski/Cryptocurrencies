@@ -10,3 +10,8 @@ First, I needed to find the total number of tradable cryptocurrencies. After cle
 Then, I made a 3D graph. This graph shows all of the currencies. The points show the name of the currency. 
 
 ![3D_scatter](https://user-images.githubusercontent.com/80054925/126084790-c48b454b-5349-40e2-9950-b5238e116258.png)
+
+Finally, I made a 2D scatter plot. This plot compares total coin supply and total coins mined. 
+
+![2D_scatter](https://user-images.githubusercontent.com/80054925/126084895-0b226e22-43fb-465a-bef3-f17eff64f3b3.png)
+
